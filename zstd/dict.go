@@ -9,7 +9,7 @@ import (
 	"math"
 	"sort"
 
-	"github.com/klauspost/compress/huff0"
+	"github.com/a652/compress/huff0"
 )
 
 type dict struct {
