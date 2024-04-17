@@ -10,7 +10,7 @@ import (
 	"math/bits"
 	"sync"
 
-	"github.com/klauspost/compress/fse"
+	"github.com/a652/compress/fse"
 )
 
 const (
