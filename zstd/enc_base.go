@@ -4,7 +4,7 @@ import (
 	"fmt"
 	"math/bits"
 
-	"github.com/klauspost/compress/zstd/internal/xxhash"
+	"github.com/a652/compress/zstd/internal/xxhash"
 )
 
 const (

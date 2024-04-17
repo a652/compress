@@ -10,8 +10,8 @@ import (
 	"hash/crc32"
 	"io"
 
-	"github.com/klauspost/compress/huff0"
-	snappy "github.com/klauspost/compress/internal/snapref"
+	"github.com/a652/compress/huff0"
+	snappy "github.com/a652/compress/internal/snapref"
 )
 
 const (
